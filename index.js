@@ -8,5 +8,6 @@
 }
 
 function johnLennonFacts(){
-  const 
+  const johnLennonFacts = []
+  
 }
