@@ -7,7 +7,15 @@
   return array
 }
 
-function johnLennonFacts(){
-  const johnLennonFacts = []
+function johnLennonFacts(facts){
+  const facts = []
   
+}
+let i = 0
+  while (i < facts.length) {
+    shoutedFacts.push(`${facts[i]}!!!`)
+    i++
+  }
+
+  return shoutedFacts
 }
