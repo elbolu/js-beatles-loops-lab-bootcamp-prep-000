@@ -18,8 +18,9 @@ function johnLennonFacts(facts){
   return shoutedFacts
 }
 
-function iLoveTheBeatles(number){
-  const number = []
+function iLoveTheBeatles(x){
+  const x = []
+  
 }
 
 }
