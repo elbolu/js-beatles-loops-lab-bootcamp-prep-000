@@ -6,3 +6,7 @@
 
   return array
 }
+
+function johnLennonFacts(){
+  
+}
