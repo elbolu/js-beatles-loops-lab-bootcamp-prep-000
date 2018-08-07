@@ -18,13 +18,13 @@ function johnLennonFacts(facts){
   return shoutedFacts
 }
 
-function iLoveTheBeatles(x){
-  const array = []
-  let i = 0
-  while (i < facts.length) {
-    shoutedFacts.push(`${facts[i]}!!!`)
-    i++
-  }
-}
+function iLoveTheBeatles(n) {
+  const arr = []
+  do {
+    arr.push('I love the Beatles!')
+    n++
+  } while (n < 15)
+
+  return arr
 
 }
